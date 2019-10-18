@@ -17,8 +17,12 @@ A multilayer perceptron (MLP) is a class of feedforward artificial neural networ
 
 In our solution we make use of a 4 layer MLP with structure as shown in the figure, and train the model for 10 epochs with **categorical_crossentropy** loss function,  **rmsprop** optimizer and **accuracy** as metric.
 
-![Model Architecture](https://github.com/Pratham1807/Mnist-1/blob/master/images/img-3.PNG)
+<p align="center">
+  <img src="https://github.com/Pratham1807/Mnist-1/blob/master/images/img-3.PNG">
+</p>
 
 After training, the model is capable of classifying handwritten digits with an accuracy of 96.73%
 
-![Model Accuracy](https://github.com/Pratham1807/Mnist-1/blob/master/images/img-4.PNG)
+<p align="center">
+  <img src="https://github.com/Pratham1807/Mnist-1/blob/master/images/img-4.PNG">
+</p>
